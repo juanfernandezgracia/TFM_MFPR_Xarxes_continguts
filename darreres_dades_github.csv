@@ -1,0 +1,240 @@
+Id,Contingut,Bloc,Matèria,Necessari per,Relacionat amb
+FiQ.1.1,Estratègies pròpies de l’activitat científica,Bloc 1. L'activitat científica,Física i Química,,
+FiQ.1.2,Tecnologies de la informació i la comunicació,Bloc 1. L'activitat científica,Física i Química,,
+FiQ.1.3,Projecte d’investigació,Bloc 1. L'activitat científica,Física i Química,,
+FiQ.2.1,Revisió de la teoria atòmica de Dalton,Bloc 2. Aspectes quantitatius de la química,Física i Química,,
+FiQ.2.2,Lleis dels gasos. Equació d’estat dels gasos ideals,Bloc 2. Aspectes quantitatius de la química,Física i Química,,
+FiQ.2.3,Determinació de fórmules empíriques i moleculars,Bloc 2. Aspectes quantitatius de la química,Física i Química,,
+FiQ.2.4,"Dissolucions: formes d’expressar la concentració, preparació i propietats col·ligatives",Bloc 2. Aspectes quantitatius de la química,Física i Química,,
+FiQ.2.5,Mètodes actuals per a l’anàlisi de substàncies: espectroscòpia i espectrometria,Bloc 2. Aspectes quantitatius de la química,Física i Química,,
+FiQ.3.1,Estequiometria de les reaccions. Reactiu limitant i rendiment d’una reacció,Bloc 3. Reaccions químiques,Física i Química,,
+FiQ.3.2,Química i indústria,Bloc 3. Reaccions químiques,Física i Química,,
+FiQ.4.1,Sistemes termodinàmics,Bloc 4. Transformacions energètiques i espontaneïtat de les reaccions químiques,Física i Química,,
+FiQ.4.2,Primer principi de la termodinàmica. Energia interna,Bloc 4. Transformacions energètiques i espontaneïtat de les reaccions químiques,Física i Química,,
+FiQ.4.3,Entalpia. Equacions termoquímiques,Bloc 4. Transformacions energètiques i espontaneïtat de les reaccions químiques,Física i Química,,
+FiQ.4.4,Llei d’Hess,Bloc 4. Transformacions energètiques i espontaneïtat de les reaccions químiques,Física i Química,,
+FiQ.4.5,Segon principi de la termodinàmica. Entropia,Bloc 4. Transformacions energètiques i espontaneïtat de les reaccions químiques,Física i Química,,
+FiQ.4.6,Factors que intervenen en l’espontaneïtat d’una reacció química. Energia de Gibbs,Bloc 4. Transformacions energètiques i espontaneïtat de les reaccions químiques,Física i Química,,
+FiQ.4.7,Conseqüències socials i mediambientals de les reaccions químiques de combustió,Bloc 4. Transformacions energètiques i espontaneïtat de les reaccions químiques,Física i Química,,
+FiQ.5.1,Enllaços de l’àtom de carboni,Bloc 5. Química del carboni,Física i Química,,
+FiQ.5.2,"Composts de carboni: Hidrocarburs, composts nitrogenats i oxigenats",Bloc 5. Química del carboni,Física i Química,,
+FiQ.5.3,Aplicacions i propietats,Bloc 5. Química del carboni,Física i Química,,
+FiQ.5.4,Formulació i nomenclatura IUPAC dels composts del carboni,Bloc 5. Química del carboni,Física i Química,,
+FiQ.5.5,Isomeria estructural,Bloc 5. Química del carboni,Física i Química,,
+FiQ.5.6,El petroli i els nous materials,Bloc 5. Química del carboni,Física i Química,,
+FiQ.6.1,Sistemes de referència inercials. Principi de relativitat de Galileu,Bloc 6. Cinemàtica,Física i Química,,
+FiQ.6.2,Moviment circular uniformement accelerat,Bloc 6. Cinemàtica,Física i Química,,
+FiQ.6.3,Composició dels moviments rectilini uniforme i rectilini uniformement accelerat,Bloc 6. Cinemàtica,Física i Química,,
+FiQ.6.4,Descripció del moviment harmònic simple (MHS),Bloc 6. Cinemàtica,Física i Química,,
+FiQ.7.1,La força com a interacció,Bloc 7. Dinàmica,Física i Química,,
+FiQ.7.2,Forces de contacte. Dinàmica de cossos lligats,Bloc 7. Dinàmica,Física i Química,,
+FiQ.7.3,Forces elàstiques. Dinàmica del MAS,Bloc 7. Dinàmica,Física i Química,,
+FiQ.7.4,Sistema de dues partícules,Bloc 7. Dinàmica,Física i Química,,
+FiQ.7.5,Conservació del moment lineal i impuls mecànic,Bloc 7. Dinàmica,Física i Química,,
+FiQ.7.6,Dinàmica del moviment circular uniforme,Bloc 7. Dinàmica,Física i Química,,
+FiQ.7.7,Lleis de Kepler,Bloc 7. Dinàmica,Física i Química,,
+FiQ.7.8,Forces centrals. Moment d’una força i moment angular. Conservació del moment angular,Bloc 7. Dinàmica,Física i Química,,
+FiQ.7.9,Llei de gravitació universal,Bloc 7. Dinàmica,Física i Química,,
+FiQ.7.10,Interacció electrostàtica: llei de Coulomb,Bloc 7. Dinàmica,Física i Química,,
+FiQ.8.1,Energia mecànica i treball,Bloc 8. Energia,Física i Química,,
+FiQ.8.2,Sistemes conservatius,Bloc 8. Energia,Física i Química,,
+FiQ.8.3,Teorema de les forces vives,Bloc 8. Energia,Física i Química,,
+FiQ.8.4,Energies cinètica i potencial del moviment harmònic simple,Bloc 8. Energia,Física i Química,,
+FiQ.8.5,Diferència de potencial elèctric,Bloc 8. Energia,Física i Química,,
+F.1.1,Estratègies pròpies de l’activitat científica,Bloc 1. L'activitat científica,Física,"F.4.11,F.6.11,F.3.7,F.6.12,F.2.5,F.6.9,F.6.8,F.6.4,F.3.3,F.4.4,F.2.4,F.2.1,F.5.3,F.4.1,F.4.13,F.2.6,F.6.15,F.4.10,F.6.16,F.6.14,F.6.7,F.5.2,F.5.4,F.6.5,F.5.1,F.6.1,F.6.2,F.6.6,F.3.9,F.4.3,F.6.3,F.4.5,F.4.14,F.6.13,F.4.2,F.4.8,F.3.8,F.3.11,F.4.9,F.3.6,F.3.12,F.3.1,F.1.2,F.6.10,F.2.2,F.4.7,F.2.3,F.3.4,F.4.12,F.3.5,F.3.2,F.4.6,F.3.10","F.1.2,MII.1.5,MII.1.2,MII.1.4,MII.1.12,MII.1.3,MII.2.1,MII.3.2,MII.4.4,MII.2.6,MII.5.2,MII.1.13,MII.1.7,MII.5.5,MII.3.6,MII.5.3,MII.4.3,MII.1.8,MII.5.6,MII.3.4,MII.2.4,MII.4.2,MII.1.9,MII.4.1,MII.3.5,MII.1.6,MII.3.1,MII.2.2,MII.1.1,MII.1.10,MII.5.4,MII.3.3,MII.2.3,MII.2.5,MII.2.7,MII.5.1,MII.1.11"
+F.1.2,Tecnologies de la informació i la comunicació,Bloc 1. L'activitat científica,Física,F.4.14,"F.1.1,F.2.6,F.6.1,F.5.1,F.4.10,F.4.9,F.5.4,F.6.7,F.4.12,F.6.3,MII.1.13,MII.1.12,MII.1.8,MII.1.6,MII.1.10"
+F.2.1,Camp gravitatori,Bloc 2. Interacció gravitatòria,Física,"F.2.5,F.2.4,F.2.3","F.2.2,F.4.3,F.3.2,F.2.2,F.3.1,F.4.2,F.6.13,F.3.5,F.2.6,F.6.4,F.6.15,MII.1.12,MII.1.11,MII.4.1,MII.1.13,MII.3.2,MII.1.3"
+F.2.2,Camps de força conservatius,Bloc 2. Interacció gravitatòria,Física,F.2.4,"F.2.1,F.3.12,F.3.8,F.2.1,F.2.6,F.2.5,F.2.3,F.3.3,F.3.7,F.3.1,F.2.4,F.3.4,F.3.2,F.6.13,MII.3.3,MII.3.5,MII.4.1,MII.1.12,MII.1.5,MII.1.6,MII.3.2,MII.1.13"
+F.2.3,Intensitat del camp gravitatori,Bloc 2. Interacció gravitatòria,Física,,"F.3.6,F.2.4,F.3.4,F.2.5,F.3.2,F.2.2,MII.4.1,MII.4.3,MII.1.11,MII.1.13,MII.1.12,MII.1.3,MII.1.7"
+F.2.4,Potencial gravitatori,Bloc 2. Interacció gravitatòria,Física,,"F.2.3,F.3.3,F.3.2,F.6.13,F.2.5,F.3.1,F.2.6,F.6.12,F.2.2,MII.1.7,MII.3.3,MII.4.1,MII.1.4,MII.1.12,MII.3.2,MII.1.3"
+F.2.5,Relació entre energia i moviment orbital,Bloc 2. Interacció gravitatòria,Física,,"F.6.3,F.2.3,F.2.4,F.2.2,MII.1.6,MII.1.5,MII.1.12,MII.1.11,MII.1.2,MII.1.13,MII.1.3,MII.4.4,MII.4.1,MII.1.7,MII.1.4"
+F.2.6,Caos determinista,Bloc 2. Interacció gravitatòria,Física,,"F.1.2,F.6.12,F.2.2,F.2.4,F.4.6,F.2.1,MII.1.12,MII.1.7,MII.1.13,MII.3.2,MII.1.6"
+F.3.1,Camp elèctric,Bloc 3. Interacció electromagnètica,Física,"F.4.10,F.3.12,F.3.4","F.4.2,F.3.11,F.2.1,F.2.4,F.6.14,F.4.11,F.4.12,F.3.7,F.3.2,F.6.13,F.6.12,F.2.2,F.4.3,F.3.5,F.3.3,F.3.10,MII.1.13,MII.1.12,MII.4.4,MII.1.7,MII.4.1,MII.1.6,MII.1.3"
+F.3.2,Intensitat del camp,Bloc 3. Interacció electromagnètica,Física,F.4.10,"F.3.11,F.3.12,F.3.4,F.2.1,F.3.7,F.2.4,F.3.3,F.2.3,F.4.3,F.3.1,F.3.8,F.3.6,F.3.5,F.2.2,MII.4.1,MII.1.13,MII.1.12,MII.1.7"
+F.3.3,Potencial elèctric,Bloc 3. Interacció electromagnètica,Física,F.3.4,"F.4.10,F.2.4,F.3.8,F.3.2,F.3.5,F.3.9,F.3.12,F.2.2,F.4.3,F.3.10,F.6.13,F.4.11,F.3.1,F.3.7,MII.1.13,MII.1.7,MII.1.3,MII.3.4,MII.1.12,MII.1.6,MII.3.2,MII.3.1"
+F.3.4,Flux elèctric i llei de Gauss. Aplicacions,Bloc 3. Interacció electromagnètica,Física,,"F.3.12,F.3.2,F.2.3,F.3.7,F.3.11,F.2.2,MII.1.7,MII.4.1,MII.1.3,MII.4.3,MII.1.1,MII.1.6,MII.1.11,MII.1.2,MII.1.12,MII.3.4,MII.1.13,MII.3.5,MII.3.6,MII.4.4,MII.1.4"
+F.3.5,Camp magnètic,Bloc 3. Interacció electromagnètica,Física,"F.4.11,F.3.8,F.3.7,F.3.6","F.6.3,F.6.1,F.4.3,F.4.12,F.3.3,F.3.12,F.3.10,F.3.11,F.4.10,F.2.1,F.3.9,F.6.13,F.3.2,F.3.1,MII.4.3,MII.4.4,MII.1.7,MII.1.13,MII.4.1,MII.1.12"
+F.3.6,Efecte dels camps magnètics sobre càrregues en moviment,Bloc 3. Interacció electromagnètica,Física,,"F.2.3,F.3.8,F.6.14,F.4.11,F.4.10,F.3.2,F.3.11,F.3.9,F.6.1,F.3.10,F.3.12,MII.1.12,MII.1.13,MII.4.1,MII.4.4,MII.1.11,MII.3.2,MII.4.3"
+F.3.7,El camp magnètic com a camp no conservatiu,Bloc 3. Interacció electromagnètica,Física,F.3.6,"F.4.12,F.4.10,F.3.12,F.3.2,F.3.4,F.3.8,F.3.1,F.3.11,F.2.2,F.3.9,F.6.13,F.3.10,F.3.3,MII.1.7,MII.1.5,MII.1.11,MII.1.3,MII.1.4,MII.4.1,MII.3.2,MII.1.12,MII.1.6"
+F.3.8,Camp creat per diferents elements de corrent,Bloc 3. Interacció electromagnètica,Física,,"F.4.11,F.3.6,F.3.3,F.2.2,F.3.12,F.3.7,F.4.10,F.3.2,F.3.10,F.3.11,F.6.14,MII.1.7,MII.1.12,MII.1.11,MII.1.6,MII.1.3,MII.3.5,MII.1.4,MII.4.4,MII.4.1,MII.1.2,MII.1.1,MII.4.3,MII.1.13"
+F.3.9,Llei d’Ampere,Bloc 3. Interacció electromagnètica,Física,F.3.8,"F.3.12,F.4.11,F.3.3,F.3.5,F.3.7,F.3.10,F.3.6,MII.1.7,MII.3.5,MII.4.3,MII.1.12,MII.4.1"
+F.3.10,Inducció electromagnètica,Bloc 3. Interacció electromagnètica,Física,,"F.6.13,F.3.11,F.3.12,F.3.5,F.3.8,F.3.3,F.3.9,F.3.7,F.3.6,F.3.1,MII.3.3,MII.4.1,MII.3.5,MII.4.3,MII.4.4,MII.3.2,MII.3.6,MII.1.12,MII.1.7,MII.1.6,MII.1.13"
+F.3.11,Flux magnètic,Bloc 3. Interacció electromagnètica,Física,F.3.9,"F.3.2,F.4.12,F.4.10,F.3.1,F.3.4,F.3.10,F.3.12,F.3.7,F.3.5,F.3.6,F.3.8,MII.3.5,MII.4.4,MII.1.12,MII.3.6,MII.1.13,MII.4.1"
+F.3.12,Lleis de Faraday-Henry i de Lenz. Força electromotriu,Bloc 3. Interacció electromagnètica,Física,,"F.4.11,F.3.4,F.3.2,F.4.10,F.2.2,F.3.7,F.3.9,F.3.8,F.3.10,F.3.3,F.3.11,F.3.5,F.3.6,MII.1.11,MII.3.4,MII.3.6,MII.4.1,MII.1.7,MII.3.5,MII.1.12,MII.1.13,MII.3.2"
+F.4.1,Classificació i magnituds que caracteritzen les ones,Bloc 4. Ones,Física,"F.4.7,F.4.9","F.4.13,F.5.4,F.4.6,F.4.11,F.4.3,F.6.7,F.4.4,F.4.12,F.4.5,F.4.10,MII.1.11,MII.1.7,MII.3.2,MII.1.12,MII.1.13"
+F.4.2,Equació de les ones harmòniques,Bloc 4. Ones,Física,"F.4.4,F.4.13,F.4.7,F.4.1","F.3.1,F.2.1,F.4.11,F.4.8,F.4.10,F.4.12,F.4.9,F.4.5,F.4.3,F.4.6,MII.3.2,MII.1.12,MII.1.3,MII.1.13,MII.1.6,MII.1.7"
+F.4.3,Energia i intensitat,Bloc 4. Ones,Física,"F.4.4,F.4.9","F.2.1,F.4.14,F.3.5,F.3.2,F.4.11,F.4.8,F.3.3,F.4.1,F.4.7,F.3.1,F.4.2,MII.1.12,MII.1.6,MII.1.13,MII.1.7"
+F.4.4,Ones transversals en una corda,Bloc 4. Ones,Física,,"F.4.7,F.4.10,F.4.5,F.4.1,MII.1.13,MII.1.12,MII.1.7,MII.4.1,MII.4.3,MII.1.3,MII.1.11"
+F.4.5,"Fenòmens ondulatoris: interferència i difracció,reflexió i refracció",Bloc 4. Ones,Física,"F.5.2,F.6.4,F.5.3,F.4.9,F.5.4,F.4.11","F.4.7,F.6.3,F.5.1,F.4.8,F.4.10,F.4.13,F.4.4,F.4.6,F.6.6,F.6.15,F.6.7,F.4.1,F.4.2,F.4.14,MII.1.7,MII.1.11,MII.1.12,MII.1.1,MII.1.3,MII.1.13,MII.1.6"
+F.4.6,Efecte Doppler,Bloc 4. Ones,Física,,"F.4.9,F.4.8,F.4.11,F.4.1,F.6.15,F.4.12,F.4.10,F.2.6,F.4.5,F.4.7,F.6.2,F.6.1,F.4.2,MII.1.12,MII.1.13,MII.4.4,MII.1.9,MII.1.7,MII.1.6"
+F.4.7,Ones longitudinals. El so,Bloc 4. Ones,Física,F.4.9,"F.4.5,F.4.4,F.4.6,F.4.3,F.4.14,F.4.8,MII.4.1,MII.1.7,MII.4.3,MII.1.6,MII.1.13,MII.3.2,MII.1.12"
+F.4.8,Energia i intensitat de les ones sonores. Contaminació acústica,Bloc 4. Ones,Física,F.4.9,"F.4.10,F.4.6,F.4.5,F.6.1,F.4.3,F.4.2,F.4.7,F.4.14,MII.3.5,MII.1.13,MII.1.7,MII.1.9,MII.1.3,MII.1.12,MII.1.11"
+F.4.9,Aplicacions tecnològiques del so,Bloc 4. Ones,Física,,"F.4.6,F.4.14,F.1.2,F.4.2,MII.1.12,MII.1.11,MII.1.1,MII.1.3,MII.1.6,MII.1.9,MII.1.2"
+F.4.10,Ones electromagnètiques,Bloc 4. Ones,Física,"F.6.7,F.5.4,F.4.11,F.4.12","F.6.9,F.6.3,F.4.13,F.6.15,F.4.8,F.3.3,F.3.7,F.3.11,F.3.12,F.5.1,F.6.1,F.5.3,F.1.2,F.6.4,F.6.8,F.3.8,F.4.5,F.4.4,F.6.5,F.4.6,F.6.11,F.3.5,F.6.10,F.4.2,F.3.6,F.4.14,F.4.1,MII.1.13,MII.1.3,MII.1.12,MII.1.7,MII.1.11"
+F.4.11,Naturalesa i propietats de les ones electromagnètiques,Bloc 4. Ones,Física,"F.6.5,F.6.7","F.6.13,F.3.12,F.3.8,F.5.1,F.6.1,F.6.12,F.3.9,F.4.13,F.4.6,F.3.1,F.6.16,F.6.15,F.4.3,F.6.11,F.4.14,F.3.6,F.4.2,F.4.1,F.6.9,F.6.8,F.4.12,F.6.3,F.3.3,F.5.4,F.6.10,F.6.2,MII.1.6,MII.1.12,MII.1.7"
+F.4.12,L’espectre electromagnètic,Bloc 4. Ones,Física,F.5.4,"F.3.11,F.3.7,F.3.5,F.4.6,F.3.1,F.6.15,F.4.2,F.6.9,F.5.2,F.6.16,F.6.5,F.4.13,F.4.11,F.4.1,F.1.2,F.4.14,MII.1.12"
+F.4.13,Dispersió. El color,Bloc 4. Ones,Física,,"F.5.3,F.4.10,F.4.1,F.6.7,F.4.11,F.5.2,F.4.5,F.4.12,F.5.4,F.5.1,MII.1.3,MII.1.12,MII.4.3,MII.1.9,MII.1.6"
+F.4.14,Transmissió de la comunicació,Bloc 4. Ones,Física,,"F.4.9,F.4.3,F.5.4,F.5.1,F.4.11,F.4.10,F.4.7,F.6.7,F.4.5,F.4.12,F.4.8,MII.1.12,MII.1.13,MII.1.2,MII.1.8,MII.1.7"
+F.5.1,Lleis de l’òptica geomètrica,Bloc 5 Òptica geomètrica,Física,"F.5.3,F.5.4,F.5.2","F.4.11,F.4.10,F.4.5,F.1.2,F.4.14,F.6.7,F.4.13,MII.1.12,MII.1.13,MII.1.3,MII.1.11,MII.4.2,MII.4.4,MII.1.6,MII.4.1,MII.4.3,MII.1.7"
+F.5.2,Sistemes òptics: lents i miralls,Bloc 5 Òptica geomètrica,Física,"F.5.3,F.5.4,F.5.3","F.5.4,F.4.13,F.4.12,MII.4.2,MII.1.4,MII.1.2,MII.1.9,MII.4.4,MII.1.3,MII.1.11,MII.1.7,MII.1.13,MII.1.1,MII.4.1,MII.1.12,MII.4.3"
+F.5.3,L’ull humà. Defectes visuals,Bloc 5 Òptica geomètrica,Física,,"F.4.13,F.4.10,F.5.4,MII.1.13,MII.1.12,MII.1.2,MII.1.7,MII.1.11,MII.1.6"
+F.5.4,Aplicacions tecnològiques: els instruments òptics i la fibra òptica,Bloc 5 Òptica geomètrica,Física,,"F.4.1,F.4.14,F.5.2,F.6.7,F.1.2,F.5.3,F.4.13,F.4.11,MII.1.1,MII.1.2,MII.1.3,MII.1.7,MII.4.2,MII.1.9,MII.1.11,MII.1.12,MII.1.13"
+F.6.1,Introducció a la teoria de la relativitat especial,Bloc 6. Física del segle XX,Física,F.6.2,"F.3.5,F.4.11,F.6.12,F.1.2,F.4.10,F.6.9,F.6.10,F.6.15,F.6.8,F.4.8,F.6.4,F.6.16,F.3.6,F.4.6,MII.4.1,MII.4.2,MII.1.5,MII.1.12,MII.1.4,MII.4.4,MII.1.7,MII.1.3,MII.1.11,MII.1.13,MII.4.3,MII.1.6"
+F.6.2,Energia relativista. Energia total i energia en repòs,Bloc 6. Física del segle XX,Física,,"F.6.10,F.6.12,F.6.4,F.6.9,F.6.8,F.6.16,F.6.11,F.4.6,F.4.11,MII.1.5,MII.1.4,MII.4.3,MII.1.6,MII.1.7,MII.1.13,MII.3.1,MII.1.3,MII.1.12"
+F.6.3,Física quàntica,Bloc 6. Física del segle XX,Física,"F.6.6,F.6.8,F.6.7","F.2.5,F.4.10,F.3.5,F.4.5,F.6.11,F.6.15,F.6.14,F.6.12,F.6.9,F.6.16,F.4.11,F.6.13,F.6.10,F.1.2,MII.5.1,MII.5.3,MII.5.5,MII.1.12,MII.1.13,MII.5.2,MII.5.6"
+F.6.4,Insuficiència de la física clàssica,Bloc 6. Física del segle XX,Física,"F.6.9,F.6.7,F.6.10,F.6.8,F.6.3,F.6.5","F.6.2,F.6.15,F.4.10,F.6.1,F.6.12,F.6.11,F.6.6,F.6.14,F.6.13,F.6.16,F.2.1,MII.1.6,MII.1.12"
+F.6.5,Orígens de la física quàntica. Problemes precursors,Bloc 6. Física del segle XX,Física,"F.6.8,F.6.3,F.6.6","F.6.10,F.6.13,F.4.10,F.6.12,F.6.16,F.6.7,F.4.12,F.6.11,F.6.14,F.6.9,MII.1.6,MII.1.12"
+F.6.6,Interpretació probabilística de la física quàntica,Bloc 6. Física del segle XX,Física,,"F.6.10,F.6.16,F.6.7,F.4.5,F.6.4,MII.1.6,MII.1.12,MII.1.1,MII.5.2,MII.5.5,MII.1.3,MII.5.3,MII.5.6,MII.5.1,MII.5.4"
+F.6.7,Aplicacions de la física quàntica. El làser,Bloc 6. Física del segle XX,Física,,"F.6.16,F.4.13,F.6.6,F.5.1,F.5.4,F.6.5,F.4.1,F.4.5,F.1.2,F.4.14,MII.1.12,MII.1.6,MII.1.11"
+F.6.8,Física nuclear,Bloc 6. Física del segle XX,Física,"F.6.10,F.6.11","F.6.15,F.6.2,F.6.1,F.4.10,F.6.13,F.6.14,F.6.12,F.6.9,F.4.11,F.6.16,MII.1.12"
+F.6.9,La radioactivitat. Tipus,Bloc 6. Física del segle XX,Física,F.6.11,"F.4.10,F.6.14,F.6.2,F.6.1,F.6.13,F.6.12,F.6.3,F.6.8,F.4.11,F.4.12,F.6.16,F.6.10,F.6.5,MII.1.12"
+F.6.10,El nucli atòmic. Lleis de la desintegració radioactiva,Bloc 6. Física del segle XX,Física,,"F.6.2,F.6.5,F.6.16,F.6.6,F.6.13,F.6.14,F.6.1,F.6.12,F.4.10,F.6.11,F.6.3,F.6.9,F.4.11,F.6.15,MII.1.12,MII.1.11,MII.1.3,MII.1.13,MII.1.7"
+F.6.11,Fusió i fissió nuclears,Bloc 6. Física del segle XX,Física,,"F.6.15,F.6.16,F.6.3,F.4.11,F.6.13,F.6.2,F.4.10,F.6.10,F.6.4,F.6.12,F.6.5,MII.1.12"
+F.6.12,Interaccions fonamentals de la naturalesa i partícules fonamentals,Bloc 6. Física del segle XX,Física,F.6.13,"F.6.15,F.6.2,F.6.1,F.4.11,F.2.6,F.6.10,F.6.14,F.6.3,F.6.9,F.3.1,F.6.8,F.6.5,F.6.4,F.6.16,F.2.4,F.6.11"
+F.6.13,"Les quatre interaccions fonamentals de la naturalesa: gravitatòria, electromagnètica, nuclear forta i nuclear feble",Bloc 6. Física del segle XX,Física,,"F.4.11,F.6.16,F.3.10,F.6.10,F.2.4,F.6.5,F.6.15,F.2.1,F.6.11,F.6.9,F.6.8,F.3.1,F.3.5,F.3.3,F.6.4,F.6.3,F.2.2,F.3.7,F.6.14,MII.1.12"
+F.6.14,Partícules fonamentals constitutives de l’àtom: electrons i quarks,Bloc 6. Física del segle XX,Física,F.6.11,"F.3.6,F.6.9,F.6.10,F.6.15,F.3.1,F.6.12,F.6.3,F.6.8,F.6.4,F.6.16,F.3.8,F.6.13,F.6.5,MII.1.12"
+F.6.15,Història i composició de l’Univers,Bloc 6. Física del segle XX,Física,,"F.6.12,F.6.16,F.4.10,F.6.11,F.6.14,F.6.8,F.4.11,F.6.4,F.6.1,F.4.6,F.6.13,F.6.3,F.4.12,F.4.5,F.2.1,F.6.10,MII.1.12,MII.1.6"
+F.6.16,Fronteres de la física,Bloc 6. Física del segle XX,Física,,"F.6.13,F.6.15,F.6.7,F.6.10,F.6.11,F.4.11,F.6.6,F.6.2,F.6.1,F.6.5,F.6.12,F.4.12,F.6.3,F.6.8,F.6.4,F.6.9,F.6.14,MII.1.6,MII.5.1,MII.1.12"
+MI.1.1,Planificació del procés de resolució de problemes,"Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques I,,
+MI.1.2,"Estratègies i procediments posats en pràctica: relació amb altres problemes coneguts, modificació de variables, suposar el problema resolt","Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques I,,
+MI.1.3,"Solucions i/o resultats obtinguts: coherència de les solucions amb la situació, revisió sistemàtica del procés, altres formes de resolució, problemes semblants, generalitzacions i particularitzacions interessants","Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques I,,
+MI.1.4,"Iniciació a la demostració en matemàtiques: mètodes, raonaments, llenguatges","Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques I,,
+MI.1.5,"Mètodes de demostració: reducció a l’absurd, mètode d’inducció, contraexemples, raonaments encadenats","Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques I,,
+MI.1.6,Raonament deductiu i inductiu,"Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques I,,
+MI.1.7,"Llenguatge gràfic, algebraic, altres formes de representació d’arguments","Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques I,,
+MI.1.8,Elaboració i presentació oral i/o escrita d’informes científics sobre el procés seguit en la resolució d’un problema o en la demostració d’un resultat matemàtic,"Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques I,,
+MI.1.9,Realització d’investigacions matemàtiques a partir de contextos de la realitat o contextos del món de les matemàtiques,"Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques I,,
+MI.1.10,"Elaboració i presentació d’un informe científic sobre el procés, resultats i conclusions del procés d’investigació desenvolupat","Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques I,,
+MI.1.11,"Pràctica dels processos de matematització i modelització, en contextos de la realitat i en contextos matemàtics","Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques I,,
+MI.1.12,Confiança en les pròpies capacitats per desenvolupar actituds adequades i afrontar les dificultats pròpies del treball científic,"Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques I,,
+MI.1.13,"Utilització de mitjans tecnològics en el procés d’aprenentatge per: a) Recollir dades de forma ordenada i organitzar-les. b) Elaborar i crear representacions gràfiques de dades numèriques, funcionals o estadístiques. c) Facilitar la comprensió de propietats geomètriques o funcionals i la realització de càlculs de tipus numèric, algebraic o estadístic. d) Dissenyar simulacions i elaborar prediccions sobre situacions matemàtiques diverses. e) Elaborar informes i documents sobre els processos duits a terme i els resultats i conclusions obtinguts. f) Comunicar i compartir, en entorns apropiats, la informació i les idees matemàtiques","Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques I,,
+MI.2.1,Nombres reals: necessitat del seu estudi per a la comprensió de la realitat. Valor absolut. Desigualtats. Distàncies en la recta real. Intervals i entorns. Aproximació i errors. Notació científica,Bloc 2. Nombres i àlgebra,Matemàtiques I,,
+MI.2.2,Nombres complexos. Forma binomial i polar. Representacions gràfiques,Bloc 2. Nombres i àlgebra,Matemàtiques I,,
+MI.2.3,Operacions elementals. Fórmula de Moivre,Bloc 2. Nombres i àlgebra,Matemàtiques I,,
+MI.2.4,"Successions numèriques: terme general, monotonia i acotació. El nombre e",Bloc 2. Nombres i àlgebra,Matemàtiques I,,
+MI.2.5,Logaritmes decimals i neperians. Equacions logarítmiques i exponencials,Bloc 2. Nombres i àlgebra,Matemàtiques I,,
+MI.2.6,Plantejament i resolució de problemes de la vida quotidiana mitjançant equacions i inequacions. Interpretació gràfica,Bloc 2. Nombres i àlgebra,Matemàtiques I,,
+MI.2.7,Resolució d’equacions no algebraiques senzilles,Bloc 2. Nombres i àlgebra,Matemàtiques I,,
+MI.2.8,Mètode de Gauss per a la resolució i interpretació de sistemes d’equacions lineals,Bloc 2. Nombres i àlgebra,Matemàtiques I,,
+MI.3.1,Funcions reals de variable real,Bloc 3. Anàlisi,Matemàtiques I,,
+MI.3.2,"Funcions bàsiques: polinòmiques, racionals senzilles, valor absolut, arrel, trigonomètriques i les seves inverses, exponencials, logarítmiques i funcions definides a trossos",Bloc 3. Anàlisi,Matemàtiques I,MI.2.2,
+MI.3.3,Operacions i composició de funcions. Funció inversa. Funcions d’oferta i demanda,Bloc 3. Anàlisi,Matemàtiques I,,
+MI.3.4,Concepte de límit d’una funció en un punt i en l’infinit. Càlcul de límits. Límits laterals. Indeterminacions,Bloc 3. Anàlisi,Matemàtiques I,,
+MI.3.5,Continuïtat d’una funció. Estudi de discontinuïtats,Bloc 3. Anàlisi,Matemàtiques I,,
+MI.3.6,Derivada d’una funció en un punt. Interpretació geomètrica de la derivada de la funció en un punt. Recta tangent i normal,Bloc 3. Anàlisi,Matemàtiques I,,
+MI.3.7,Funció derivada. Càlcul de funcions derivades. Regla de la cadena,Bloc 3. Anàlisi,Matemàtiques I,,
+MI.3.8,Representació gràfica de funcions,Bloc 3. Anàlisi,Matemàtiques I,,
+MI.4.1,Mesura d’un angle en radiants,Bloc 4. Geometria,Matemàtiques I,,
+MI.4.2,"Raons trigonomètriques d’un angle qualsevol. Raons trigonomètriques dels angles suma i diferència d’altres dos, doble i meitat. Fórmules de transformacions trigonomètriques",Bloc 4. Geometria,Matemàtiques I,,
+MI.4.3,Teoremes. Resolució d’equacions trigonomètriques senzilles,Bloc 4. Geometria,Matemàtiques I,,
+MI.4.4,Resolució de triangles. Resolució de problemes geomètrics diversos,Bloc 4. Geometria,Matemàtiques I,,
+MI.4.5,Vectors lliures en el pla. Operacions geomètriques,Bloc 4. Geometria,Matemàtiques I,,
+MI.4.6,Producte escalar. Mòdul d’un vector. Angle de dos vectors,Bloc 4. Geometria,Matemàtiques I,,
+MI.4.7,Bases ortogonals i ortonormals,Bloc 4. Geometria,Matemàtiques I,,
+MI.4.8,Geometria mètrica plana. Equacions de la recta. Posicions relatives de rectes,Bloc 4. Geometria,Matemàtiques I,,
+MI.4.9,Distàncies i angles. Resolució de problemes,Bloc 4. Geometria,Matemàtiques I,,
+MI.4.10,Llocs geomètrics en el pla,Bloc 4. Geometria,Matemàtiques I,,
+MI.4.11,"Còniques. Circumferència, el·lipse, hipèrbola i paràbola. Equació i elements",Bloc 4. Geometria,Matemàtiques I,,
+MI.5.1,Estadística descriptiva bidimensional,Bloc 5. Estadística i probabilitat,Matemàtiques I,,
+MI.5.2,Taules de contingència,Bloc 5. Estadística i probabilitat,Matemàtiques I,,
+MI.5.3,Distribució conjunta i distribucions marginals,Bloc 5. Estadística i probabilitat,Matemàtiques I,,
+MI.5.4,Mitjanes i desviacions típiques marginals,Bloc 5. Estadística i probabilitat,Matemàtiques I,,
+MI.5.5,Distribucions condicionades,Bloc 5. Estadística i probabilitat,Matemàtiques I,,
+MI.5.6,Independència de variables estadístiques,Bloc 5. Estadística i probabilitat,Matemàtiques I,,
+MI.5.7,Estudi de la dependència de dues variables estadístiques. Representació gràfica: Núvol de punts,Bloc 5. Estadística i probabilitat,Matemàtiques I,,
+MI.5.8,Dependència lineal de dues variables estadístiques. Covariància i correlació: Càlcul i interpretació del coeficient de correlació lineal,Bloc 5. Estadística i probabilitat,Matemàtiques I,,
+MI.5.9,Regressió lineal. Estimació. Prediccions estadístiques i fiabilitat de les mateixes,Bloc 5. Estadística i probabilitat,Matemàtiques I,,
+MII.1.1,Planificació del procés de resolució de problemes,"Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques II,,"MII.1.7,MII.1.8,MII.1.4,MII.1.2,MII.2.1,MII.1.6,MII.3.3,MII.1.5,MII.2.3,MII.2.7,MII.1.12,MII.1.9,MII.1.3,MII.1.13,MII.1.11,MII.3.4,MII.1.10,F.5.4,F.3.4,F.4.9,F.4.5,F.6.6,F.3.8,F.5.2,F.1.1"
+MII.1.2,"Estratègies i procediments posats en pràctica: relació amb altres problemes coneguts, modificació de variables, suposar el problema resolt","Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques II,,"MII.1.1,MII.2.3,MII.1.7,MII.1.11,MII.1.10,MII.1.4,MII.1.8,MII.2.7,MII.1.3,MII.1.9,MII.2.4,MII.1.12,MII.3.1,MII.3.6,MII.1.13,MII.2.1,MII.1.6,MII.5.2,MII.3.3,F.1.1,F.5.2,F.5.4,F.3.4,F.2.5,F.3.8,F.4.14,F.5.3,F.4.9"
+MII.1.3,"Solucions i/o resultats obtinguts: coherència de les solucions amb la situació, revisió sistemàtica del procés, altres formes de resolució, problemes semblants, generalitzacions i particularitzacions interessants","Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques II,,"MII.3.3,MII.4.3,MII.2.3,MII.5.6,MII.2.7,MII.3.2,MII.3.1,MII.1.9,MII.1.8,MII.5.2,MII.2.5,MII.1.4,MII.3.6,MII.1.2,MII.1.7,MII.1.13,MII.1.1,MII.1.12,MII.1.5,MII.1.10,MII.1.11,MII.1.6,MII.2.1,MII.3.5,F.6.10,F.3.4,F.1.1,F.4.10,F.3.8,F.4.2,F.5.4,F.3.3,F.5.1,F.5.2,F.4.13,F.4.9,F.3.7,F.6.1,F.4.8,F.6.6,F.4.5,F.2.5,F.4.4,F.2.4,F.6.2,F.2.3,F.3.1,F.2.1"
+MII.1.4,"Iniciació a la demostració en matemàtiques: mètodes, raonaments, llenguatges","Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques II,,"MII.1.1,MII.1.7,MII.1.5,MII.1.9,MII.1.12,MII.2.1,MII.1.2,MII.1.3,MII.2.3,MII.1.13,MII.1.11,MII.3.1,MII.5.4,MII.1.8,MII.1.6,MII.1.10,F.1.1,F.5.2,F.6.2,F.6.1,F.3.8,F.3.7,F.2.4,F.3.4,F.2.5"
+MII.1.5,"Mètodes de demostració: reducció a l’absurd, mètode d’inducció, contraexemples, raonaments encadenats","Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques II,,"MII.1.6,MII.1.12,MII.3.2,MII.1.7,MII.1.4,MII.1.11,MII.1.9,MII.3.5,MII.1.1,MII.1.8,MII.1.3,MII.3.4,F.1.1,F.6.2,F.2.5,F.3.7,F.6.1,F.2.2"
+MII.1.6,Raonament deductiu i inductiu,"Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques II,,"MII.1.5,MII.1.8,MII.1.1,MII.1.7,MII.1.12,MII.2.3,MII.5.4,MII.1.11,MII.1.9,MII.3.2,MII.3.3,MII.1.2,MII.1.3,MII.1.10,MII.1.4,F.4.11,F.2.5,F.6.6,F.3.8,F.6.15,F.6.4,F.6.5,F.6.16,F.6.2,F.3.4,F.5.1,F.1.2,F.3.3,F.4.9,F.4.7,F.4.3,F.4.13,F.4.2,F.2.6,F.6.7,F.2.2,F.1.1,F.4.5,F.6.1,F.3.10,F.3.1,F.3.7,F.4.6,F.5.3"
+MII.1.7,"Llenguatge gràfic, algebraic, altres formes de representació d’arguments","Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques II,,"MII.1.1,MII.5.2,MII.4.1,MII.4.2,MII.4.4,MII.1.2,MII.3.5,MII.3.6,MII.1.4,MII.4.3,MII.2.1,MII.3.1,MII.1.5,MII.2.3,MII.1.6,MII.1.10,MII.3.3,MII.1.8,MII.1.11,MII.2.5,MII.1.9,MII.1.3,MII.3.2,MII.3.4,MII.1.13,MII.5.6,MII.1.12,MII.2.7,F.3.8,F.4.5,F.3.4,F.4.1,F.3.9,F.3.3,F.4.8,F.4.7,F.2.4,F.3.7,F.1.1,F.3.5,F.6.10,F.2.6,F.6.2,F.4.10,F.3.12,F.6.1,F.5.4,F.3.1,F.4.4,F.5.2,F.4.3,F.5.1,F.2.5,F.4.11,F.3.2,F.5.3,F.3.10,F.4.14,F.4.6,F.2.3,F.4.2"
+MII.1.8,Elaboració i presentació oral i/o escrita d’informes científics sobre el procés seguit en la resolució d’un problema o en la demostració d’un resultat matemàtic,"Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques II,,"MII.1.1,MII.1.6,MII.3.3,MII.1.10,MII.1.3,MII.1.7,MII.1.2,MII.1.13,MII.1.9,MII.1.5,MII.1.11,MII.1.4,MII.1.12,F.1.2,F.1.1,F.4.14"
+MII.1.9,Realització d’investigacions matemàtiques a partir de contextos de la realitat o contextos del món de les matemàtiques,"Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques II,,"MII.2.1,MII.5.3,MII.2.7,MII.4.2,MII.5.2,MII.1.12,MII.1.4,MII.1.5,MII.1.3,MII.2.3,MII.1.1,MII.1.7,MII.1.2,MII.1.11,MII.1.6,MII.1.8,MII.1.10,MII.1.13,MII.3.3,F.5.2,F.4.8,F.4.6,F.5.4,F.4.13,F.1.1,F.4.9"
+MII.1.10,"Elaboració i presentació d’un informe científic sobre el procés, resultats i conclusions del procés d’investigació desenvolupat","Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques II,,"MII.2.1,MII.1.2,MII.1.7,MII.1.8,MII.3.3,MII.1.13,MII.1.12,MII.1.9,MII.1.3,MII.1.1,MII.1.6,MII.1.11,MII.1.4,F.1.2,F.1.1"
+MII.1.11,"Pràctica dels processos de matematització i modelització, en contextos de la realitat i en contextos matemàtics","Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques II,,"MII.2.7,MII.1.2,MII.3.2,MII.4.3,MII.1.13,MII.1.5,MII.5.3,MII.2.3,MII.1.7,MII.1.9,MII.1.6,MII.2.1,MII.1.12,MII.1.8,MII.1.4,MII.1.3,MII.1.1,MII.3.3,MII.4.2,MII.1.10,F.4.1,F.6.10,F.3.12,F.4.5,F.4.9,F.3.8,F.2.1,F.3.7,F.5.1,F.3.4,F.2.5,F.5.2,F.4.10,F.6.1,F.5.4,F.2.3,F.6.7,F.3.6,F.5.3,F.4.4,F.4.8,F.1.1"
+MII.1.12,Confiança en les pròpies capacitats per desenvolupar actituds adequades i afrontar les dificultats pròpies del treball científic,"Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques II,,"MII.2.4,MII.5.3,MII.1.5,MII.2.3,MII.1.9,MII.1.6,MII.4.4,MII.5.2,MII.1.4,MII.5.4,MII.4.1,MII.4.3,MII.3.1,MII.4.2,MII.2.2,MII.5.1,MII.3.6,MII.1.1,MII.3.2,MII.1.2,MII.3.5,MII.5.6,MII.1.3,MII.2.6,MII.1.11,MII.1.10,MII.1.13,MII.1.7,MII.2.5,MII.3.3,MII.5.5,MII.2.7,MII.1.8,MII.2.1,MII.3.4,F.6.10,F.4.9,F.2.1,F.3.6,F.4.6,F.4.12,F.5.1,F.4.5,F.3.8,F.3.2,F.6.15,F.1.1,F.4.14,F.4.2,F.2.6,F.6.6,F.1.2,F.4.3,F.3.1,F.6.11,F.6.13,F.6.5,F.4.1,F.6.8,F.2.5,F.6.1,F.2.2,F.6.3,F.4.4,F.4.10,F.3.3,F.5.3,F.4.13,F.3.9,F.4.11,F.3.4,F.6.7,F.3.11,F.2.4,F.3.5,F.5.4,F.6.9,F.3.12,F.4.8,F.6.16,F.4.7,F.3.10,F.6.2,F.2.3,F.6.4,F.3.7,F.5.2,F.6.14"
+MII.1.13,"Utilització de mitjans tecnològics en el procés d’aprenentatge per: a) Recollir dades de forma ordenada i organitzar-les. b) Elaborar i crear representacions gràfiques de dades numèriques, funcionals o estadístiques. c) Facilitar la comprensió de propietats geomètriques o funcionals i la realització de càlculs de tipus numèric, algebraic o estadístic. d) Dissenyar simulacions i elaborar prediccions sobre situacions matemàtiques diverses. e) Elaborar informes i documents sobre els processos duits a terme i els resultats i conclusions obtinguts. f) Comunicar i compartir, en entorns apropiats, la informació i les idees matemàtiques","Bloc 1. Processos, mètodes i actituds en matemàtiques",Matemàtiques II,,"MII.2.6,MII.3.2,MII.2.5,MII.5.6,MII.5.3,MII.3.3,MII.2.1,MII.1.11,MII.4.3,MII.4.2,MII.5.5,MII.4.4,MII.3.1,MII.3.5,MII.1.8,MII.1.3,MII.1.7,MII.1.1,MII.1.10,MII.1.12,MII.1.4,MII.3.4,MII.1.2,MII.5.2,MII.1.9,MII.2.2,MII.3.6,MII.2.7,MII.4.1,MII.2.3,MII.5.1,F.4.10,F.3.3,F.1.2,F.3.2,F.6.10,F.5.1,F.4.6,F.4.8,F.3.6,F.4.4,F.3.1,F.1.1,F.4.14,F.3.5,F.2.1,F.5.3,F.6.3,F.2.6,F.4.7,F.3.4,F.4.3,F.4.2,F.6.2,F.2.5,F.6.1,F.5.2,F.4.5,F.3.12,F.2.3,F.3.11,F.3.8,F.2.2,F.4.1,F.3.10,F.5.4"
+MII.2.1,Estudi de les matrius com a eina per tractar i operar amb dades estructurades en taules i grafs,Bloc 2. Nombres i àlgebra,Matemàtiques II,,"MII.1.9,MII.2.2,MII.1.7,MII.1.10,MII.1.1,MII.1.13,MII.2.7,MII.2.4,MII.1.4,MII.1.11,MII.2.6,MII.1.2,MII.1.12,MII.2.3,MII.1.3,MII.2.5,F.1.1"
+MII.2.2,Classificació de matrius. Operacions,Bloc 2. Nombres i àlgebra,Matemàtiques II,,"MII.2.1,MII.2.7,MII.1.12,MII.2.6,MII.2.4,MII.2.3,MII.1.13,MII.2.5,F.1.1"
+MII.2.3,Aplicació de les operacions amb matrius i de les seves propietats en la resolució de problemes extrets de contextos reals,Bloc 2. Nombres i àlgebra,Matemàtiques II,,"MII.4.2,MII.1.2,MII.1.12,MII.1.3,MII.1.7,MII.2.7,MII.1.6,MII.2.5,MII.3.3,MII.1.11,MII.1.9,MII.3.6,MII.1.1,MII.1.4,MII.2.4,MII.2.2,MII.2.6,MII.2.1,MII.1.13,F.1.1"
+MII.2.4,Determinants. Propietats elementals,Bloc 2. Nombres i àlgebra,Matemàtiques II,,"MII.1.12,MII.2.5,MII.2.6,MII.2.1,MII.1.2,MII.2.2,MII.2.3,MII.2.7,F.1.1"
+MII.2.5,Rang d’una matriu,Bloc 2. Nombres i àlgebra,Matemàtiques II,,"MII.2.6,MII.2.4,MII.4.1,MII.1.13,MII.2.3,MII.2.7,MII.1.3,MII.1.7,MII.1.12,MII.2.2,MII.2.1,F.1.1"
+MII.2.6,Matriu inversa,Bloc 2. Nombres i àlgebra,Matemàtiques II,,"MII.1.13,MII.2.5,MII.2.4,MII.2.7,MII.2.2,MII.2.1,MII.1.12,MII.2.3,F.1.1"
+MII.2.7,Representació matricial d’un sistema: discussió i resolució de sistemes d’equacionslineals. Mètode de Gauss. Regla de Cramer. Aplicació a la resolució de problemes,Bloc 2. Nombres i àlgebra,Matemàtiques II,,"MII.4.2,MII.1.9,MII.1.11,MII.2.6,MII.1.3,MII.2.2,MII.2.3,MII.2.5,MII.2.1,MII.4.3,MII.4.1,MII.1.1,MII.1.2,MII.1.7,MII.2.4,MII.1.12,MII.1.13,F.1.1"
+MII.3.1,Límit d’una funció en un punt i en l’infinit. Continuïtat d’una funció. Tipus de discontinuïtat. Teorema de Bolzano,Bloc 3. Anàlisi,Matemàtiques II,,"MII.3.3,MII.1.7,MII.1.3,MII.1.12,MII.3.2,MII.1.13,MII.1.2,MII.1.4,F.1.1,F.6.2,F.3.3"
+MII.3.2,Funció derivada. Teoremes de Rolle i del valor mitjà. La regla de L’Hôpital. Aplicació al càlcul de límits,Bloc 3. Anàlisi,Matemàtiques II,,"MII.1.13,MII.3.5,MII.3.4,MII.1.11,MII.1.5,MII.1.3,MII.3.1,MII.1.12,MII.3.3,MII.1.7,MII.1.6,F.4.2,F.1.1,F.4.1,F.2.1,F.3.10,F.2.6,F.2.4,F.2.2,F.4.7,F.3.7,F.3.6,F.3.3,F.3.12"
+MII.3.3,Aplicacions de la derivada: problemes d’optimització,Bloc 3. Anàlisi,Matemàtiques II,,"MII.3.4,MII.1.3,MII.3.1,MII.1.8,MII.1.13,MII.2.3,MII.1.7,MII.1.1,MII.3.2,MII.1.10,MII.1.6,MII.1.12,MII.1.9,MII.1.11,MII.1.2,F.2.2,F.3.10,F.2.4,F.1.1"
+MII.3.4,Primitiva d’una funció. La integral indefinida. Tècniques elementals per al càlcul de primitives,Bloc 3. Anàlisi,Matemàtiques II,,"MII.3.3,MII.3.5,MII.4.4,MII.3.2,MII.3.6,MII.1.7,MII.1.13,MII.1.1,MII.1.5,MII.1.12,F.3.12,F.3.3,F.3.4,F.1.1"
+MII.3.5,La integral definida. Teoremes del valor mitjà i fonamental del càlcul integral,Bloc 3. Anàlisi,Matemàtiques II,,"MII.3.4,MII.3.2,MII.1.7,MII.1.5,MII.3.6,MII.1.13,MII.1.12,MII.1.3,F.3.11,F.4.8,F.3.10,F.2.2,F.3.8,F.3.9,F.3.12,F.3.4,F.1.1"
+MII.3.6,Aplicació al càlcul d’àrees de regions planes,Bloc 3. Anàlisi,Matemàtiques II,,"MII.1.7,MII.4.4,MII.4.1,MII.3.5,MII.2.3,MII.3.4,MII.1.12,MII.1.3,MII.1.2,MII.1.13,F.1.1,F.3.12,F.3.11,F.3.4,F.3.10"
+MII.4.1,"Vectors en l’espai tridimensional. Producte escalar, vectorial i mixt. Significat geomètric",Bloc 4. Geometria,Matemàtiques II,,"MII.4.2,MII.1.7,MII.2.5,MII.1.12,MII.3.6,MII.2.7,MII.4.4,MII.4.3,MII.1.13,F.3.2,F.6.1,F.3.4,F.3.10,F.4.7,F.2.2,F.2.1,F.3.6,F.2.3,F.2.4,F.3.5,F.3.12,F.3.8,F.5.1,F.3.7,F.4.4,F.1.1,F.3.9,F.2.5,F.5.2,F.3.1,F.3.11"
+MII.4.2,Equacions de la recta i el pla en l’espai,Bloc 4. Geometria,Matemàtiques II,,"MII.4.1,MII.2.7,MII.2.3,MII.1.7,MII.1.9,MII.1.12,MII.1.13,MII.4.4,MII.4.3,MII.1.11,F.5.2,F.6.1,F.5.1,F.5.4,F.1.1"
+MII.4.3,"Posicions relatives (incidència, paral·lelisme i perpendicularitat entre rectes i plans)",Bloc 4. Geometria,Matemàtiques II,,"MII.1.3,MII.1.7,MII.1.11,MII.2.7,MII.1.12,MII.1.13,MII.4.4,MII.4.2,MII.4.1,F.3.4,F.3.5,F.3.10,F.6.2,F.4.7,F.3.9,F.1.1,F.4.13,F.5.1,F.2.3,F.4.4,F.6.1,F.3.8,F.3.6,F.5.2"
+MII.4.4,"Propietats mètriques (càlcul d’angles, distàncies, àrees i volums)",Bloc 4. Geometria,Matemàtiques II,,"MII.1.7,MII.3.4,MII.1.12,MII.3.6,MII.4.2,MII.1.13,MII.4.3,MII.4.1,F.1.1,F.4.6,F.3.10,F.3.5,F.5.2,F.3.11,F.3.8,F.5.1,F.6.1,F.3.1,F.3.6,F.3.4,F.2.5"
+MII.5.1,Esdeveniments. Assignació de probabilitats a esdeveniments mitjançant la regla de Laplace i a partir de la seva freqüència relativa. Axiomàtica de Kolmogorov,Bloc 5. Estadística i probabilitat,Matemàtiques II,,"MII.5.6,MII.5.3,MII.5.4,MII.5.2,MII.1.12,MII.5.5,MII.1.13,F.6.3,F.6.16,F.6.6,F.1.1"
+MII.5.2,Aplicació de la combinatòria al càlcul de probabilitats,Bloc 5. Estadística i probabilitat,Matemàtiques II,,"MII.1.7,MII.5.1,MII.1.9,MII.1.12,MII.1.3,MII.5.4,MII.5.3,MII.5.5,MII.5.6,MII.1.13,MII.1.2,F.1.1,F.6.6,F.6.3"
+MII.5.3,Experiments simples i compostos. Probabilitat condicionada. Dependència i independència d’esdeveniments,Bloc 5. Estadística i probabilitat,Matemàtiques II,,"MII.1.9,MII.1.12,MII.5.1,MII.1.13,MII.5.5,MII.5.4,MII.5.6,MII.1.11,MII.5.2,F.6.3,F.1.1,F.6.6"
+MII.5.4,Teoremes de la probabilitat total i de Bayes. Probabilitats inicials i finals i versemblança d’un esdeveniment,Bloc 5. Estadística i probabilitat,Matemàtiques II,,"MII.5.1,MII.5.3,MII.1.12,MII.5.2,MII.1.6,MII.1.4,MII.5.5,MII.5.6,F.1.1,F.6.6"
+MII.5.5,"Variables aleatòries discretes. Distribució de probabilitat. Mitjana, variància i desviació típica",Bloc 5. Estadística i probabilitat,Matemàtiques II,,"MII.5.3,MII.5.2,MII.1.13,MII.5.1,MII.5.6,MII.5.4,MII.1.12,F.6.3,F.1.1,F.6.6"
+MII.5.6,Distribució binomial. Caracterització i identificació del model. Càlcul de probabilitats,Bloc 5. Estadística i probabilitat,Matemàtiques II,,"MII.5.1,MII.1.13,MII.1.3,MII.5.3,MII.5.2,MII.1.7,MII.1.12,MII.5.5,MII.5.4,F.1.1,F.6.6,F.6.3"
+Q.1.1,Estratègies pròpies de l’activitat científica,Bloc 1. L'activitat científica,Química,,
+Q.1.2,Tecnologies de la informació i la comunicació,Bloc 1. L'activitat científica,Química,,
+Q.1.3,Importància de la investigació científica en la indústria i en l’empresa,Bloc 1. L'activitat científica,Química,,
+Q.2.1,Estructura de la matèria. Hipòtesi de Planck. Model atòmic de Bohr,"Bloc 2. Origen i evolució dels components de l’univers estructura de la matèria. l’àtom, la taula periòdica i l’enllaç químic",Química,,
+Q.2.2,"Mecànica quàntica: Hipòtesi de De Broglie, Principi d’Incertesa d’Heisenberg","Bloc 2. Origen i evolució dels components de l’univers estructura de la matèria. l’àtom, la taula periòdica i l’enllaç químic",Química,,
+Q.2.3,Orbitals atòmics. Nombres quàntics i la seva interpretació,"Bloc 2. Origen i evolució dels components de l’univers estructura de la matèria. l’àtom, la taula periòdica i l’enllaç químic",Química,,
+Q.2.4,Partícules subatòmiques: origen de l’Univers,"Bloc 2. Origen i evolució dels components de l’univers estructura de la matèria. l’àtom, la taula periòdica i l’enllaç químic",Química,,
+Q.2.5,Classificació dels elements segons la seva estructura electrònica: sistema periòdic,"Bloc 2. Origen i evolució dels components de l’univers estructura de la matèria. l’àtom, la taula periòdica i l’enllaç químic",Química,,
+Q.2.6,"Propietats dels elements segons la seva posició en el sistema periòdic: energia d’ionització, afinitat electrònica, electronegativitat, radi atòmic","Bloc 2. Origen i evolució dels components de l’univers estructura de la matèria. l’àtom, la taula periòdica i l’enllaç químic",Química,,
+Q.2.7,Enllaç químic,"Bloc 2. Origen i evolució dels components de l’univers estructura de la matèria. l’àtom, la taula periòdica i l’enllaç químic",Química,,
+Q.2.8,Enllaç iònic,"Bloc 2. Origen i evolució dels components de l’univers estructura de la matèria. l’àtom, la taula periòdica i l’enllaç químic",Química,,
+Q.2.9,Propietats de les substàncies amb enllaç iònic,"Bloc 2. Origen i evolució dels components de l’univers estructura de la matèria. l’àtom, la taula periòdica i l’enllaç químic",Química,,
+Q.2.10,Enllaç covalent. Geometria i polaritat de les molècules,"Bloc 2. Origen i evolució dels components de l’univers estructura de la matèria. l’àtom, la taula periòdica i l’enllaç químic",Química,,
+Q.2.11,Teoria de l’enllaç de valència (TEV) i hibridació,"Bloc 2. Origen i evolució dels components de l’univers estructura de la matèria. l’àtom, la taula periòdica i l’enllaç químic",Química,,
+Q.2.12,Teoria de repulsió de parells electrònics de la capa de valència (TRPECV),"Bloc 2. Origen i evolució dels components de l’univers estructura de la matèria. l’àtom, la taula periòdica i l’enllaç químic",Química,,
+Q.2.13,Propietats de les substàncies amb enllaç covalent,"Bloc 2. Origen i evolució dels components de l’univers estructura de la matèria. l’àtom, la taula periòdica i l’enllaç químic",Química,,
+Q.2.14,Enllaç metàl·lic,"Bloc 2. Origen i evolució dels components de l’univers estructura de la matèria. l’àtom, la taula periòdica i l’enllaç químic",Química,,
+Q.2.15,Model del gas electrònic i teoria de bandes,"Bloc 2. Origen i evolució dels components de l’univers estructura de la matèria. l’àtom, la taula periòdica i l’enllaç químic",Química,,
+Q.2.16,Propietats dels metalls. Aplicacions de superconductors i semiconductors,"Bloc 2. Origen i evolució dels components de l’univers estructura de la matèria. l’àtom, la taula periòdica i l’enllaç químic",Química,,
+Q.2.17,Enllaços presents en substàncies d’interès biològic,"Bloc 2. Origen i evolució dels components de l’univers estructura de la matèria. l’àtom, la taula periòdica i l’enllaç químic",Química,,
+Q.2.18,Naturalesa de les forces intermoleculars,"Bloc 2. Origen i evolució dels components de l’univers estructura de la matèria. l’àtom, la taula periòdica i l’enllaç químic",Química,,
+Q.3.1,Concepte de velocitat de reacció,Bloc 3. Reaccions químiques,Química,,
+Q.3.2,Teoria de col·lisions,Bloc 3. Reaccions químiques,Química,,
+Q.3.3,Factors que influeixen en la velocitat de les reaccions químiques,Bloc 3. Reaccions químiques,Química,,
+Q.3.4,Utilització de catalitzadors en processos industrials,Bloc 3. Reaccions químiques,Química,,
+Q.3.5,Equilibri químic. Llei d’acció de masses. La constant d’equilibri: formes d’expressar-la,Bloc 3. Reaccions químiques,Química,,
+Q.3.6,Factors que afecten l’estat d’equilibri: principi de Le Chatelier,Bloc 3. Reaccions químiques,Química,,
+Q.3.7,Equilibris amb gasos,Bloc 3. Reaccions químiques,Química,,
+Q.3.8,Equilibris heterogenis: reaccions de precipitació,Bloc 3. Reaccions químiques,Química,,
+Q.3.9,Aplicacions i importància de l’equilibri químic en processos industrials i en situacions de la vida quotidiana,Bloc 3. Reaccions químiques,Química,,
+Q.3.10,Equilibri àcid-base,Bloc 3. Reaccions químiques,Química,,
+Q.3.11,Concepte d’àcid-base,Bloc 3. Reaccions químiques,Química,,
+Q.3.12,Teoria de Brönsted-Lowry,Bloc 3. Reaccions químiques,Química,,
+Q.3.13,"Força relativa dels àcids i de les bases, grau d’ionització",Bloc 3. Reaccions químiques,Química,,
+Q.3.14,Equilibri iònic de l’aigua,Bloc 3. Reaccions químiques,Química,,
+Q.3.15,Concepte de pH. Importància del pH a nivell biològic,Bloc 3. Reaccions químiques,Química,,
+Q.3.16,Volumetries de neutralització àcid-base,Bloc 3. Reaccions químiques,Química,,
+Q.3.17,Estudi qualitatiu de la hidròlisi de sals,Bloc 3. Reaccions químiques,Química,,
+Q.3.18,Estudi qualitatiu de les dissolucions reguladores de pH,Bloc 3. Reaccions químiques,Química,,
+Q.3.19,Àcids i bases rellevants a nivell industrial i de consum. Problemes mediambientals,Bloc 3. Reaccions químiques,Química,,
+Q.3.20,Equilibri redox,Bloc 3. Reaccions químiques,Química,,
+Q.3.21,Concepte d’oxidació-reducció. Oxidants i reductors. Nombred’oxidació,Bloc 3. Reaccions químiques,Química,,
+Q.3.22,Ajust redox pel mètode de l’ió-electró. Estequiometria de les reaccions redox,Bloc 3. Reaccions químiques,Química,,
+Q.3.23,Potencial de reducció estàndard,Bloc 3. Reaccions químiques,Química,,
+Q.3.24,Volumetries redox,Bloc 3. Reaccions químiques,Química,,
+Q.3.25,Lleis de Faraday de l’electròlisi,Bloc 3. Reaccions químiques,Química,,
+Q.3.26,"Aplicacions i repercussions de les reaccions d’oxidació reducció: bateries elèctriques, piles de combustible, prevenció de la corrosió de metalls",Bloc 3. Reaccions químiques,Química,,
+Q.4.1,Estudi de funcions orgàniques,Bloc 4. Síntesi orgànica i nous materials,Química,,
+Q.4.2,Nomenclatura i formulació orgànica segons les normes de la IUPAC,Bloc 4. Síntesi orgànica i nous materials,Química,,
+Q.4.3,"Funcions orgàniques d’interès: oxigenades i nitrogenades, derivats halogenats, tiols, peràcids. Composts orgànics polifuncionals",Bloc 4. Síntesi orgànica i nous materials,Química,,
+Q.4.4,Tipus d’isomeria,Bloc 4. Síntesi orgànica i nous materials,Química,,
+Q.4.5,Tipus de reaccions orgàniques,Bloc 4. Síntesi orgànica i nous materials,Química,,
+Q.4.6,Principals composts orgànics d’interès biològic i industrial: materials polímers i medicaments,Bloc 4. Síntesi orgànica i nous materials,Química,,
+Q.4.7,Macromolècules i materials polímers,Bloc 4. Síntesi orgànica i nous materials,Química,,
+Q.4.8,Polímers d’origen natural i sintètic: propietats,Bloc 4. Síntesi orgànica i nous materials,Química,,
+Q.4.9,Reaccions de polimerització,Bloc 4. Síntesi orgànica i nous materials,Química,,
+Q.4.10,Fabricació de materials plàstics i seus transformats: impacte mediambiental,Bloc 4. Síntesi orgànica i nous materials,Química,,
+Q.4.11,Importància de la Química del Carboni en el desenvolupament de la societat del benestar,Bloc 4. Síntesi orgànica i nous materials,Química,,
