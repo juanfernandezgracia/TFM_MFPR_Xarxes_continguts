@@ -6,4 +6,4 @@ Repositori amb el codi i les dades usades i generades en el TFM de Juan Fernánd
 - <code>darreres_dades.csv</code>: taula amb les darreres dades recollides.
 - <code>populate_network.py</code>: programa de recollida de dades, també en python.
 - <code>xarxa_FIS_MAT_QUI_BAT_inicial.csv</code>: dades inicials que només tenen els continguts amb la seva matèria, el seu bloc i un codi identificatiu.
-
+- <code>TFM_JFG.pdf</code>: Treball fi de màster.
